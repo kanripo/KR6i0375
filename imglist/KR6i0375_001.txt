@@ -1,0 +1,4 @@
+001-1069b00	X 001-1069b	buddhist/X-xuzang/X74/10/X74-1069.png
+001-1069c00	X 001-1069c	buddhist/X-xuzang/X74/10/X74-1069.png
+001-1070a00	X 001-1070a	buddhist/X-xuzang/X74/10/X74-1070.png
+001-1070b00	X 001-1070b	buddhist/X-xuzang/X74/10/X74-1070.png
